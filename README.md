@@ -4,3 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This tutoriaal is focus mainly on git and using github
 This repository is built step by step in the tutorial.
 it now includes steps for github
+it next includes some modifications
